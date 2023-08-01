@@ -11,6 +11,4 @@ Skilled Java Certified Professional with a demonstrated history of working in th
 - 💬 &nbsp; Ask me about Java, Springboot and Microservices.
 - 📫 &nbsp; How to reach me: [LinkedIn](https://www.linkedin.com/in/victim-musundire)
 
-<br>
-<br>
 
