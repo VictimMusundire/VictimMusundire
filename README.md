@@ -1,4 +1,4 @@
-## Hi 👋, I'm Victim Musundire.
+### Hi 👋, I'm Victim Musundire.
 
 #### Software development is my profession and sharing is my passion.
 
@@ -6,7 +6,7 @@ Skilled Java Certified Professional with a demonstrated history of working in th
 <br/>
 <br/>
 
-### ✨ # I'm a Software Engineer:
+# ✨  I'm a Software Engineer:
 
 - 🔭 &nbsp; I’m currently working @Steward Bank.
 - 🌱 &nbsp; I’m currently learning Data Structures and Algorithms. 
