@@ -9,7 +9,7 @@ Skilled Java Certified Professional with a demonstrated history of working in th
 # ✨  I'm a Software Engineer.
 
 - 🔭 &nbsp; I’m currently working @Steward Bank.
-- 🌱 &nbsp; I’m currently learning Data Structures and Algorithms. 
+- 🌱 &nbsp; I’m currently preparing for Spring Professional Certification. 
 - 💬 &nbsp; Ask me about Java, Springboot and Microservices.
 - 📫 &nbsp; How to reach me: [LinkedIn](https://www.linkedin.com/in/victim-musundire).
 
