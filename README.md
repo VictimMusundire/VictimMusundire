@@ -12,7 +12,7 @@ Creative software engineer with years of professional experience acquired in the
 <br/>
 <br/>
 
-# ✨  I'm a Software Engineer.
+# ✨  Senior Software Engineer & Cloud Engineering Leader.
 
 - 🔭 &nbsp; I’m currently experimenting with AI Agents 
 - 🌱 &nbsp; I’m currently working on MultiCloud. 
