@@ -12,7 +12,7 @@ Creative software & cloud engineer with years of professional experience acquire
 <br/>
 <br/>
 
-# ✨  Lead Software & Cloud Engineer.
+# ✨  Tech Lead (Software & Cloud Engineer).
 
 - 🔭 &nbsp; I’m currently experimenting with AI Agents 
 - 🌱 &nbsp; I’m currently working on MultiCloud. 
