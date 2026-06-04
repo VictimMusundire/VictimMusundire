@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Victim Musundire.
 
-#### Software & Cloud Engineering is my profession & sharing is my passion.
+#### Software & Cloud Engineering.
 
 Creative software & cloud engineer with years of professional experience acquired in the banking, fintech, and livestreaming industry. l write code to create systems that are reliable and user-friendly. Well-versed and actively involved in code reviews, with an aptitude to function within an agile team.
 
