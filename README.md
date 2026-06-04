@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Victim Musundire.
 
-#### Software & Cloud Engineering.
+# Tech Lead (Software & Cloud Engineer).
 
 Creative software & cloud engineer with years of professional experience acquired in the banking, fintech, and livestreaming industry. l write code to create systems that are reliable and user-friendly. Well-versed and actively involved in code reviews, with an aptitude to function within an agile team.
 
@@ -12,7 +12,7 @@ Creative software & cloud engineer with years of professional experience acquire
 <br/>
 <br/>
 
-# ✨  Tech Lead (Software & Cloud Engineer).
+# ✨  Focus.
 
 - 🔭 &nbsp; I’m currently experimenting with AI Agents 
 - 🌱 &nbsp; I’m currently working on MultiCloud. 
